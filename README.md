@@ -1,6 +1,10 @@
 ## Hi! My name is Neil Singh, and I'm currently a third year Electrical and Computer Engineering student at Northeastern University
 ## with an aspiration to use my degree to work in motorsports. 
 
+## LinkedIn: https://www.linkedin.com/in/neil-singh-ece/
+## Email: neilsingh2023@gmail.com
+## Resume: file:///C:/Users/bluev/OneDrive/Neil%20Singh%20Resume%20(7).pdf
+
 ## Featured Projects...
 
 ### Golf Driving Range Alert System
@@ -30,3 +34,5 @@
 
 ### Autonomous Robot Project
 - Using an Arduino RedBoard and C++, built and programmed an autonomous robot, using sensors to determine obstacles in its way
+
+
