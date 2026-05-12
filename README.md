@@ -3,7 +3,7 @@
 
 ## LinkedIn: https://www.linkedin.com/in/neil-singh-ece/
 ## Email: neilsingh2023@gmail.com
-## Resume: file:///C:/Users/bluev/OneDrive/Neil%20Singh%20Resume%20(7).pdf
+## Resume: file:///C:/Users/bluev/OneDrive/Neil%20Singh%20Resume%202026.pdf
 
 ## Featured Projects...
 
