@@ -1,5 +1,4 @@
-## Hi! My name is Neil Singh, and I'm currently a third year Electrical and Computer Engineering student at Northeastern University
-## with an aspiration to use my degree to work in motorsports. 
+## Hi! My name is Neil Singh, and I'm currently a fourth year Electrical and Computer Engineering student at Northeastern University.
 
 ## LinkedIn: https://www.linkedin.com/in/neil-singh-ece/
 ## Email: neilsingh2023@gmail.com
